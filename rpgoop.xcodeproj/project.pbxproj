@@ -14,7 +14,7 @@
 		E747D8E61CED4EFD009443A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E747D8E41CED4EFD009443A6 /* LaunchScreen.storyboard */; };
 		E747D8EE1CED5012009443A6 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = E747D8ED1CED5012009443A6 /* Character.swift */; };
 		E747D8F01CED53B1009443A6 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = E747D8EF1CED53B1009443A6 /* Player.swift */; };
-		E747D8F41CEE952B009443A6 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = E747D8F31CEE952B009443A6 /* File.swift */; };
+		E747D8F41CEE952B009443A6 /* Kimara.swift in Sources */ = {isa = PBXBuildFile; fileRef = E747D8F31CEE952B009443A6 /* Kimara.swift */; };
 		E747D8F61CEE966D009443A6 /* DevilWizard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E747D8F51CEE966D009443A6 /* DevilWizard.swift */; };
 		E747D8F81CEEC410009443A6 /* Enemy.swift in Sources */ = {isa = PBXBuildFile; fileRef = E747D8F71CEEC410009443A6 /* Enemy.swift */; };
 /* End PBXBuildFile section */
@@ -29,7 +29,7 @@
 		E747D8E71CED4EFD009443A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E747D8ED1CED5012009443A6 /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		E747D8EF1CED53B1009443A6 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
-		E747D8F31CEE952B009443A6 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		E747D8F31CEE952B009443A6 /* Kimara.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kimara.swift; sourceTree = "<group>"; };
 		E747D8F51CEE966D009443A6 /* DevilWizard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DevilWizard.swift; sourceTree = "<group>"; };
 		E747D8F71CEEC410009443A6 /* Enemy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Enemy.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,7 +68,7 @@
 				E747D8EF1CED53B1009443A6 /* Player.swift */,
 				E747D8F71CEEC410009443A6 /* Enemy.swift */,
 				E747D8F51CEE966D009443A6 /* DevilWizard.swift */,
-				E747D8F31CEE952B009443A6 /* File.swift */,
+				E747D8F31CEE952B009443A6 /* Kimara.swift */,
 				E747D8DB1CED4EFD009443A6 /* AppDelegate.swift */,
 				E747D8DD1CED4EFD009443A6 /* ViewController.swift */,
 				E747D8DF1CED4EFD009443A6 /* Main.storyboard */,
@@ -152,7 +152,7 @@
 			files = (
 				E747D8F81CEEC410009443A6 /* Enemy.swift in Sources */,
 				E747D8F01CED53B1009443A6 /* Player.swift in Sources */,
-				E747D8F41CEE952B009443A6 /* File.swift in Sources */,
+				E747D8F41CEE952B009443A6 /* Kimara.swift in Sources */,
 				E747D8F61CEE966D009443A6 /* DevilWizard.swift in Sources */,
 				E747D8EE1CED5012009443A6 /* Character.swift in Sources */,
 				E747D8DE1CED4EFD009443A6 /* ViewController.swift in Sources */,
